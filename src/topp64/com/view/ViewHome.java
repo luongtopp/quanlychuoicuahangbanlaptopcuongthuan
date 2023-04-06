@@ -16,7 +16,8 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author luongtopp đã sửa ở đây sửa rất nhiều rrtasdvsdvdsv
+ * @author tooi la luongtopp
+ * sdfsdfdsfsdfdsff
  */
 public class ViewHome extends javax.swing.JFrame {
 
